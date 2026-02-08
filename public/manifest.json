@@ -1,0 +1,12 @@
+{
+  "name": "AgendaMe",
+  "short_name": "AgendaMe",
+  "description": "Organize your activities with ease",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [],
+  "categories": ["productivity"]
+}
